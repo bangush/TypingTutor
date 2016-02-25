@@ -1,0 +1,3 @@
+﻿1. Move text files to zip files.
+2. Create editors for text files
+3. Add a counter/progress bar for items left in level.
